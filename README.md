@@ -3,7 +3,7 @@ SpaceAPI-GTK
 
 A panel Applet using GTK2 for showing the Status of a Hackerspace. Compatible with the SpaceAPI version 0.13.
 
-Original source: [https:/github.com/ccchh/dooris-gtk](https:/github.com/ccchh/dooris-gtk) (I moved to $HOME from $CCCHH... ;))
+Original source: [https://github.com/ccchh/dooris-gtk](https://github.com/ccchh/dooris-gtk) (I moved to $HOME from $CCCHH... ;))
 
 Installation:
 -------------
