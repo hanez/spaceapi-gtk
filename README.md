@@ -37,7 +37,7 @@ If you don't want notifications run the following command:
 Installation
 ------------
 
-Just copy "dooris" to a folder in your $PATH. I do:
+Just copy "spaceapi-gtk" to a folder in your $PATH. I do:
 
     cp ./spaceapi-gtk ~/bin/
 
