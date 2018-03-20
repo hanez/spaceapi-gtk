@@ -32,7 +32,7 @@ This will compile dooris with libnotify support.
 
 If you don't want notifications run the following command:
 
-    gcc `pkg-config --cflags --libs gtk+-2.0 --libs libcurl --libs json-c` -o spaceapi-gtk spaceapi-gtk.c
+    make nonotify
 
 Installation
 ------------
