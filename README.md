@@ -41,7 +41,7 @@ Just copy "spaceapi-gtk" to a folder in your $PATH. I do:
 
     cp ./spaceapi-gtk ~/bin/
 
-You can copy the file to /usr/bin to make it available for all users but I don't. If you want that just run:
+You can copy the file to /usr/bin to make it available to all users but I don't. If you want that just run:
 
     sudo cp ./spaceapi-gtk /usr/bin/
 
