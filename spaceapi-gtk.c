@@ -1,7 +1,8 @@
 /*
- * CCCHH Door Information System for UNIX
- * Author: hanez, Haeger
- * Thanks to: atari, beh and eisbaer
+ * SpaceAPI based panel applet for UNIX using GTK2
+ *
+ * Author: hanez <you@hanez.org>
+ * Contributors: Haeger, atari, beh and eisbaer
  * 
  * License (Beerware License):
  * As long as you retain this notice you can do whatever you want with this 
@@ -10,6 +11,7 @@
  * 
  * TODO:
  *  - Add door open/close date to notification and status
+ *  - Fix: not show notification twice at start when status "open"
  */
 
 #include <stdlib.h>
