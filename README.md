@@ -18,11 +18,11 @@ Requirements:
 
 Use the following command for getting the sources:
 
-    git clone https://github.com/hanez/SpaceAPI-GTK.git
+    git clone https://git.unixpeople.org/hanez/spaceapi-gtk.git
 
 Change into the new directory:
 
-    cd SpaceAPI-GTK
+    cd spaceapi-gtk
 
 To compile the sources just run:
 
